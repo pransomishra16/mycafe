@@ -21,6 +21,7 @@ namespace MYCAFE
         {
             this.Hide();
             UserOrder order = new UserOrder();
+            var f = "fd";
             order.Show();
         }
 
